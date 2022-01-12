@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DisasterAlerter</string>
+    <string name="admin">Admin</string>
+    <string name="user">User</string>
+    <string name="join_as">Join as</string>
+    <string name="create_an_alert">Create an alert</string>
+    <string name="type">Type</string>
+    <string name="message">Message</string>
+    <string name="time_estimate">Time(estimate)</string>
+    <string name="submit">Submit</string>
+    <string name="fcm">fcm_enable</string>
+    <string name="apiKey">rBIARhef9NdGmP9rSccGfga3qHiHX5Ml3vSNod9VUPEhHNyusJPOkIdTOFaLFkvz</string>
+    <string name="updates_section">Updates section</string>
+</resources>

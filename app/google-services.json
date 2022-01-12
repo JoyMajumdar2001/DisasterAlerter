@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964969834077",
+    "project_id": "disaster-ea631",
+    "storage_bucket": "disaster-ea631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964969834077:android:9ec9b79fafa33d160f0fb4",
+        "android_client_info": {
+          "package_name": "com.qdot.disasteralerter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964969834077-vc2jtkijdnh8773gmqgdis06p0vpbokv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIkMkHzvPD9VSEX6k_nBVvictmaHNAYes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964969834077-vc2jtkijdnh8773gmqgdis06p0vpbokv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
